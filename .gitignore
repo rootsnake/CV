@@ -1,0 +1,5 @@
+# Ignorar scripts de automação local
+deploy.ps1
+
+# Ignorar todos os arquivos de texto (.txt)
+*.txt
